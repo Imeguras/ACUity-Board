@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Board.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Board.SchDoc|FileName=CanFD.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Board.SchDoc|FileName=Connectors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Board.SchDoc|FileName=JTAG.SchDoc|SheetNumber=1
