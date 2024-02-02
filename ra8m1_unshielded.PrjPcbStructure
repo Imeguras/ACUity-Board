@@ -1,4 +1,6 @@
-Record=TopLevelDocument|FileName=Board.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Board.SchDoc|FileName=CanFD.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Board.SchDoc|FileName=Connectors.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Board.SchDoc|FileName=JTAG.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=TopLevelConnections.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TopLevelConnections.SchDoc|Designator=U_Board|SchDesignator=U_Board|FileName=Board.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevelConnections.SchDoc|Designator=U_CanFD|SchDesignator=U_CanFD|FileName=CanFD.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=CanFD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevelConnections.SchDoc|Designator=U_Connectors|SchDesignator=U_Connectors|FileName=Connectors.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevelConnections.SchDoc|Designator=U_HighSpeedInterfaces|SchDesignator=U_HighSpeedInterfaces|FileName=HighSpeedInterfaces.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=HighSpeedInterfaces.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevelConnections.SchDoc|Designator=U_JTAG|SchDesignator=U_JTAG|FileName=JTAG.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=JTAG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
