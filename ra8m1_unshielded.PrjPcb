@@ -53,6 +53,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\ACU_Libs\LIB_1N4148W-G3-08\1N4148W-G3-08\Altium\SOD3716X135N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BGSFOTIA
+
+[Document2]
 DocumentPath=..\..\..\ACU_Libs\LIB_0805AF-222XJRC\0805AF-222XJRC\Altium\INDC2317X152N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -69,7 +86,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUWXCGZO
 
-[Document2]
+[Document3]
 DocumentPath=..\..\..\ACU_Libs\ul_MIC69301-1-2WR-TR\AltiumDesigner\MIC69301-1P2WR-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +103,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWJHRQWB
 
-[Document3]
+[Document4]
+DocumentPath=..\..\..\ACU_Libs\LIB_1N4148W-G3-08\1N4148W-G3-08\Altium\1N4148W-G3-08.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVNEQUTG
+
+[Document5]
 DocumentPath=..\..\..\ACU_Libs\LIB_0805AF-222XJRC\0805AF-222XJRC\Altium\0805AF-222XJRC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMOKPRNR
 
-[Document4]
+[Document6]
 DocumentPath=..\..\..\ACU_Libs\ul_MIC69301-1-2WR-TR\AltiumDesigner\MIC69301-1P2WR-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJWUVGVD
 
-[Document5]
+[Document7]
 DocumentPath=..\..\..\ACU_Libs\ul_TSR-1-2450\AltiumDesigner\TSR1-2450.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBTQSQFP
 
-[Document6]
+[Document8]
 DocumentPath=..\..\..\ACU_Libs\ul_TSR-1-2450\AltiumDesigner\TSR1-2450.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQCQOGGJ
 
-[Document7]
+[Document9]
 DocumentPath=..\..\..\ACU_Libs\ul_ST50S017VCAR1800\AltiumDesigner\ST50S017VCAR1800.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSBHCHZU
 
-[Document8]
+[Document10]
 DocumentPath=..\..\..\ACU_Libs\ul_ST50S017VCAR1800\AltiumDesigner\ST50S017VCAR1800.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEPYQLAB
 
-[Document9]
+[Document11]
 DocumentPath=..\..\..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S7221-45R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJERZRJC
 
-[Document10]
+[Document12]
 DocumentPath=..\..\..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S722145R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHPXOSUZ
 
-[Document11]
+[Document13]
 DocumentPath=..\..\..\Altium_Component_Library\Pedro_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJXNFPHA
 
-[Document12]
+[Document14]
 DocumentPath=..\..\..\Altium_Component_Library\Pedro_sch_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNTNTKTX
 
-[Document13]
+[Document15]
 DocumentPath=..\..\..\ACU_Libs\LIB_1894K-32LF\1894K-32LF\Altium\QFN50P500X500X100-33N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJYSSNGD
 
-[Document14]
+[Document16]
 DocumentPath=..\..\..\ACU_Libs\LIB_1894K-32LF\1894K-32LF\Altium\1894K-32LF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVRNIDBW
 
-[Document15]
+[Document17]
 DocumentPath=..\..\..\ACU_Libs\LIB_R7FA8M1AFECFC#BA0\R7FA8M1AFECFC#BA0\Altium\QFP50P2600X2600X160-176N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWPOVGZW
 
-[Document16]
+[Document18]
 DocumentPath=..\..\..\ACU_Libs\LIB_R7FA8M1AFECFC#BA0\R7FA8M1AFECFC#BA0\Altium\R7FA8M1AFECFC#BA0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNICIJLH
 
-[Document17]
+[Document19]
 DocumentPath=..\..\..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\QFP50P900X900X170-48N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKTVEBSC
 
-[Document18]
+[Document20]
 DocumentPath=..\..\..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\R7FA4M2AD3CFL#BA0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQFFVDXB
 
-[Document19]
+[Document21]
 DocumentPath=JTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGBHSTQZ
 
-[Document20]
+[Document22]
 DocumentPath=TopLevelConnections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,7 +426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LESNUNLU
 
-[Document21]
+[Document23]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,7 +443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJAYVAVX
 
-[Document22]
+[Document24]
 DocumentPath=..\..\..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\R7FA4M2AD3CFL#BA0.epw
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,7 +460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document25]
 DocumentPath=Board_nonBGA.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -443,7 +477,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VHVKVVRS
 
-[Document24]
+[Document26]
 DocumentPath=Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -460,7 +494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMVVTHOU
 
-[Document25]
+[Document27]
 DocumentPath=CanFD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -477,7 +511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGYRIFGW
 
-[Document26]
+[Document28]
 DocumentPath=HighSpeedInterfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,7 +528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFCDEEEG
 
-[Document27]
+[Document29]
 DocumentPath=Board.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,7 +545,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document30]
 DocumentPath=JTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -528,7 +562,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document31]
 DocumentPath=CanFD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -545,7 +579,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document32]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -562,7 +596,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document33]
 DocumentPath=HighSpeedInterfaces.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -579,7 +613,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document34]
 DocumentPath=ra8m1_unshielded.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -596,7 +630,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document35]
 DocumentPath=TopLevelConnections.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -613,7 +647,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document36]
 DocumentPath=ImegurasLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -630,7 +664,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TODZSLCD
 
-[Document35]
+[Document37]
 DocumentPath=ImegurasLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -647,7 +681,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBUUYXN
 
-[Document36]
+[Document38]
 DocumentPath=ra8m1_unshielded.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -664,7 +698,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document39]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1704,17 +1738,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Celestial Altium Library FIREWALL.DbLib/Oscillators - Crystals
-ComponentDesignItemID0=ABM10-166-12.000MHZ-T3
-ComponentSymbolReference0=Abracon Crystal ABM10
+ComponentLibraryIdentifier0=Pedro_sch_lib.SchLib
+ComponentDesignItemID0=MIC5239-3.3YS-TR
+ComponentSymbolReference0=MIC5239-3.3YS-TR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=R7FA8M1AFECFC#BA0.SchLib
-ComponentDesignItemID1=R7FA8M1AFECFC#BA0
-ComponentSymbolReference1=R7FA8M1AFECFC#BA0
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=0
 UpdatePartIDLock=0
@@ -1736,90 +1764,27 @@ ParameterName2=Comment
 ParameterUpdate2=1
 ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=ComponentLink1Description
+ParameterName4=Datasheet Link
 ParameterUpdate4=1
-ParameterName5=ComponentLink1URL
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=ComponentLink2Description
+ParameterName6=Height
 ParameterUpdate6=1
-ParameterName7=ComponentLink2URL
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Datasheet Link
+ParameterName8=Manufacturer_Name
 ParameterUpdate8=1
-ParameterName9=Description
+ParameterName9=Manufacturer_Part_Number
 ParameterUpdate9=1
-ParameterName10=Device Package
+ParameterName10=Mouser Part Number
 ParameterUpdate10=1
-ParameterName11=ESR (Equivalent Series Resistance)
+ParameterName11=Mouser Price/Stock
 ParameterUpdate11=1
-ParameterName12=Frequency
-ParameterUpdate12=1
-ParameterName13=Frequency Stability
-ParameterUpdate13=1
-ParameterName14=Frequency Tolerance
-ParameterUpdate14=1
-ParameterName15=Geometry.Height
-ParameterUpdate15=1
-ParameterName16=Height - Seated (Max)
-ParameterUpdate16=1
-ParameterName17=LastUpdated
-ParameterUpdate17=1
-ParameterName18=Library Reference
-ParameterUpdate18=1
-ParameterName19=Lifecycle Status
-ParameterUpdate19=1
-ParameterName20=Load Capacitance
-ParameterUpdate20=1
-ParameterName21=Manufacturer
-ParameterUpdate21=1
-ParameterName22=Manufacturer_Name
-ParameterUpdate22=1
-ParameterName23=Manufacturer_Part_Number
-ParameterUpdate23=1
-ParameterName24=Minimum Order
-ParameterUpdate24=1
-ParameterName25=Mounting Type
-ParameterUpdate25=1
-ParameterName26=Mouser Part Number
-ParameterUpdate26=1
-ParameterName27=Mouser Price/Stock
-ParameterUpdate27=1
-ParameterName28=Operating Mode
-ParameterUpdate28=1
-ParameterName29=Operating Temperature
-ParameterUpdate29=1
-ParameterName30=Package / Case
-ParameterUpdate30=1
-ParameterName31=Packaging
-ParameterUpdate31=1
-ParameterName32=Part Number
-ParameterUpdate32=1
-ParameterName33=Part Status
-ParameterUpdate33=1
-ParameterName34=PartId
-ParameterUpdate34=1
-ParameterName35=Price
-ParameterUpdate35=1
-ParameterName36=Series
-ParameterUpdate36=1
-ParameterName37=Size / Dimension
-ParameterUpdate37=1
-ParameterName38=Supplier 1
-ParameterUpdate38=1
-ParameterName39=Supplier Part Number 1
-ParameterUpdate39=1
-ParameterName40=Type
-ParameterUpdate40=1
-ParameterName41=Value
-ParameterUpdate41=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=ABRACON ABM10
+ModelName0=SOT230P700X180-4N
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=QFP50P2600X2600X160-176N
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
