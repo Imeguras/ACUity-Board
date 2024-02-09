@@ -715,6 +715,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BATJKBWV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ra8m1_unshielded\Design Rule Check - Board_nonBGA.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
