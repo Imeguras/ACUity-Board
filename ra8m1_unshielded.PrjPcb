@@ -868,16 +868,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[ProjectVariant1]
-UniqueID=67C0B541-163E-4F83-870E-079260495B7C
-Description=BGA RA8M1
-AllowFabrication=1
-ParameterCount=0
-VariationCount=1
-AllowVariationPastMask=1
-Variation1=Designator=B2|UniqueId=\QASCCFSC\KPGTBPMG|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA-RoundHoles.TXT
 DItemRevisionGUID=
