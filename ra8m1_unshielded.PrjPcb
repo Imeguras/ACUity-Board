@@ -835,7 +835,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
-DocumentPath=ImegurasLib.SchLib
+DocumentPath=ImegurasLib\ImegurasLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -849,10 +849,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TODZSLCD
+DocumentUniqueId=
 
 [Document48]
-DocumentPath=ImegurasLib.PcbLib
+DocumentPath=ImegurasLib\ImegurasLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -866,7 +866,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TKBUUYXN
+DocumentUniqueId=
 
 [Document49]
 DocumentPath=ra8m1_unshielded.IntLib
