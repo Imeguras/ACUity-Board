@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\UMPS-10-05.5-G-V-S-W-TR\UMPS-10-05.5-G-V-S-W-TR.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_T77S1D3-05\AltiumDesigner\T77S1D3-05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PCGHKSQK
 
-[Document2]
+[Document3]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_T77S1D3-05\AltiumDesigner\T77S1D3-05.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLVBJHCB
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_RJF0408JPD-01-J3\AltiumDesigner\RJF0408JPD-01J3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDPOMDQI
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_RJF0408JPD-01-J3\AltiumDesigner\RJF0408JPD-01J3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLJQGTSI
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\..\micron\Desktop\Altium-Library\0013 - Optocoupler SMD\Optocoupler SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDPTJPBA
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\..\micron\Desktop\Altium-Library\0013 - Optocoupler SMD\Optocoupler SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSVAUEKX
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\BrunoSamac\BrunoSamac.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\ul_PTPS259830LNRGER\AltiumDesigner\PTPS259830LNRGER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\Desago\DesagoPCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJJBOUDJ
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\Desago\DesagoSch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVTNMPTC
 
-[Document11]
+[Document12]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_MC33926PNBR2\AltiumDesigner\MC33926PNBR2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKTKBNFP
 
-[Document12]
+[Document13]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_MC33926PNBR2\AltiumDesigner\MC33926PNBR2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENREVADH
 
-[Document13]
+[Document14]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\BrunoSamac\BrunoSamac.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_MT48LC16M16A2B4-6A-G-TR\AltiumDesigner\MT48LC16M16A2B4-6A-GTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NHTQWVLS
 
-[Document15]
+[Document16]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\ul_YC124-FR-0733RL\AltiumDesigner\YC124-FR-0733RL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\ul_PTPS259830LNRGER\AltiumDesigner\PTPS259830LNRGER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_MT48LC16M16A2B4-6A-G-TR\AltiumDesigner\MT48LC16M16A2B4-6A-GTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPRYZYJP
 
-[Document18]
+[Document19]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\ul_YC124-FR-0733RL\AltiumDesigner\YC124-FR-0733RL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=..\ACU_Libs\LIB_1N4148W-G3-08\1N4148W-G3-08\Altium\SOD3716X135N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGSFOTIA
 
-[Document20]
+[Document21]
 DocumentPath=..\ACU_Libs\LIB_0805AF-222XJRC\0805AF-222XJRC\Altium\INDC2317X152N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\ul_MIC69301-1-2WR-TR\AltiumDesigner\MIC69301-1P2WR-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=..\ACU_Libs\LIB_1N4148W-G3-08\1N4148W-G3-08\Altium\1N4148W-G3-08.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVNEQUTG
 
-[Document23]
+[Document24]
 DocumentPath=..\ACU_Libs\LIB_0805AF-222XJRC\0805AF-222XJRC\Altium\0805AF-222XJRC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMOKPRNR
 
-[Document24]
+[Document25]
 DocumentPath=..\ACU_Libs\ul_ST50S017VCAR1800\AltiumDesigner\ST50S017VCAR1800.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSBHCHZU
 
-[Document25]
+[Document26]
 DocumentPath=..\..\..\..\bruno\Downloads\ACU_Libs (2)\ACU_Libs\ul_MIC69301-1-2WR-TR\AltiumDesigner\MIC69301-1P2WR-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=..\ACU_Libs\ul_TSR-1-2450\AltiumDesigner\TSR1-2450.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=..\ACU_Libs\LIB_TSR_1-2450\TSR_1-2450\Altium\TSR1-2450.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQCQOGGJ
 
-[Document28]
+[Document29]
 DocumentPath=..\ACU_Libs\ul_ST50S017VCAR1800\AltiumDesigner\ST50S017VCAR1800.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEPYQLAB
 
-[Document29]
+[Document30]
 DocumentPath=..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S7221-45R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJERZRJC
 
-[Document30]
+[Document31]
 DocumentPath=..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S722145R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHPXOSUZ
 
-[Document31]
+[Document32]
 DocumentPath=..\..\..\..\micron\Desktop\Altium_Component_Library\Pedro_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJXNFPHA
 
-[Document32]
+[Document33]
 DocumentPath=..\..\..\..\micron\Desktop\Altium_Component_Library\Pedro_sch_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNTNTKTX
 
-[Document33]
+[Document34]
 DocumentPath=..\ACU_Libs\LIB_1894K-32LF\1894K-32LF\Altium\QFN50P500X500X100-33N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJYSSNGD
 
-[Document34]
+[Document35]
 DocumentPath=..\ACU_Libs\LIB_R7FA8M1AFECFC#BA0\R7FA8M1AFECFC#BA0\Altium\QFP50P2600X2600X160-176N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWPOVGZW
 
-[Document35]
+[Document36]
 DocumentPath=..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\QFP50P900X900X170-48N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKTVEBSC
 
-[Document36]
+[Document37]
 DocumentPath=JTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGBHSTQZ
 
-[Document37]
+[Document38]
 DocumentPath=JTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=TopLevelConnections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LESNUNLU
 
-[Document39]
+[Document40]
 DocumentPath=TopLevelConnections.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJAYVAVX
 
-[Document41]
+[Document42]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=..\..\..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\R7FA4M2AD3CFL#BA0.epw
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMVVTHOU
 
-[Document44]
+[Document45]
 DocumentPath=Board.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=CanFD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGYRIFGW
 
-[Document46]
+[Document47]
 DocumentPath=CanFD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=HighSpeedInterfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFCDEEEG
 
-[Document48]
+[Document49]
 DocumentPath=HighSpeedInterfaces.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document50]
 DocumentPath=ra8m1_unshielded.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document51]
 DocumentPath=ImegurasLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TODZSLCD
 
-[Document51]
+[Document52]
 DocumentPath=ImegurasLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBUUYXN
 
-[Document52]
+[Document53]
 DocumentPath=ra8m1_unshielded.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document54]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BATJKBWV
 
-[Document54]
+[Document55]
 DocumentPath=CAMtastic8.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document56]
 DocumentPath=CAMtastic9.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document57]
 DocumentPath=ra8m1_unshielded.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document58]
 DocumentPath=BGA_ACUity.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSQYSLPL
 
-[Document58]
+[Document59]
 DocumentPath=DrivePower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKCTSWNF
 
-[Document59]
+[Document60]
 DocumentPath=DrivePower.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document61]
 DocumentPath=Watchdog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPWPCZBF
 
-[Document61]
+[Document62]
 DocumentPath=Watchdog.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document63]
 DocumentPath=ADC-Filter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVWCOBLA
 
-[Document63]
+[Document64]
 DocumentPath=ASICS_ACU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
