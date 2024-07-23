@@ -1,1 +1,2 @@
 ShutdownCircuit=ShutOut,ShutIn
+WatchdogSignals=FeedBack,PulseIN
