@@ -1019,23 +1019,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document58]
-DocumentPath=BGA_ACUity.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QSQYSLPL
-
-[Document59]
 DocumentPath=DrivePower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKCTSWNF
 
-[Document60]
+[Document59]
 DocumentPath=DrivePower.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=Watchdog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPWPCZBF
 
-[Document62]
+[Document61]
 DocumentPath=Watchdog.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=ADC-Filter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1120,7 +1103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVWCOBLA
 
-[Document64]
+[Document63]
 DocumentPath=ASICS_ACU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
