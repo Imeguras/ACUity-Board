@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=668A32B3-10EC-4E71-9646-E8AF5058AC5F
+VaultGUID=22184F82-55EC-480E-8980-FD80A93DE437
+ReleaseVaultName=João Vieira
+ItemGUID=668A32B3-10EC-4E71-9646-E8AF5058AC5F
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -220,7 +223,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\..\..\LART\Desktop\ACU_Libs\ACU_Libs\Desago\DesagoPCB.PcbLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\Desago\DesagoPCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -237,7 +240,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\..\..\LART\Desktop\ACU_Libs\ACU_Libs\Desago\DesagoSch.SchLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\Desago\DesagoSch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -560,7 +563,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KEPYQLAB
 
 [Document31]
-DocumentPath=..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S7221-45R.SchLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S7221-45R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -574,7 +577,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AJERZRJC
+DocumentUniqueId=
 
 [Document32]
 DocumentPath=..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S722145R.PcbLib
@@ -2329,7 +2332,7 @@ Type153=1
 Type154=0
 
 [ERC Connection Matrix]
-L1=NNNNNNNNNNNWNNNWW
+L1=NNNNNNNNNNNWNNNWE
 L2=NNWNNNNWWWNWNWNWN
 L3=NWEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
@@ -2345,7 +2348,7 @@ L13=NNNNNNNNNNNWNNNWW
 L14=NWEENEEEENEWNEEWW
 L15=NNENNNNEEENWNENWW
 L16=WWWWNWWNWWWNWWWNW
-L17=WNNNNNNNWNNNWWWWN
+L17=ENNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
