@@ -1174,6 +1174,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document67]
+DocumentPath=ImegurasLib\ImegurasLib.PvLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA-RoundHoles.TXT
 DItemRevisionGUID=
@@ -2346,7 +2363,7 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
@@ -2407,6 +2424,25 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=NetC?_2|NetColor=clYellow
+Net2=NetName=NetK1_3|NetColor=$00FF0099
+Net3=NetName=ShutdownIN|NetColor=$00FF0099
+Net4=NetName=ShutdownOUT|NetColor=$00FF0099
+Net5=NetName=ShutdownWatch.ShutIn|NetColor=$00FF0099
+Net6=NetName=ShutdownWatch.ShutIn_1|NetColor=$00FF0099
+Net7=NetName=ShutdownWatch.ShutOut|NetColor=$00FF0099
+Net8=NetName=ShutdownWatch.ShutOut_1|NetColor=$00FF0099
+Net9=NetName=ShutIn|NetColor=$00FF0099
+Net10=NetName=TP_A_6_N|NetColor=clYellow
+Net11=NetName=TP_A_6_P|NetColor=clYellow
+Net12=NetName=TP_A_N|NetColor=clYellow
+Net13=NetName=TP_A_P|NetColor=clYellow
+Net14=NetName=TP_B_6_N|NetColor=clYellow
+Net15=NetName=TP_B_6_P|NetColor=clYellow
+Net16=NetName=TP_B_N|NetColor=clYellow
+Net17=NetName=TP_B_P|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
