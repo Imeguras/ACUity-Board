@@ -845,7 +845,7 @@ AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -2364,7 +2364,7 @@ GlobalIndexSortLocation=0
 
 [PrjClassGen]
 CompClassManualEnabled=1
-CompClassManualRoomEnabled=0
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
