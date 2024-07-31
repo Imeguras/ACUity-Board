@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Altium ###
 # Previews Folders
 **/__Previews/
@@ -17,3 +18,23 @@ Project Outputs*/
 # Access lock file for dbLib sources
 **/*.ldb
 **.zip
+=======
+### Altium ###
+# Previews Folders
+**/__Previews/
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project Logs*/
+
+# Project Outputs
+Project Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+>>>>>>> 91bb021 (initial commit)
