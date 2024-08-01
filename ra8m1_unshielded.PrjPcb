@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
@@ -36,10 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=4E8C0C36-6F28-4C2C-9FDF-D79DCCE6EC9A
+ManagedProjectGUID=668A32B3-10EC-4E71-9646-E8AF5058AC5F
 VaultGUID=22184F82-55EC-480E-8980-FD80A93DE437
 ReleaseVaultName=João Vieira
-ItemGUID=4E8C0C36-6F28-4C2C-9FDF-D79DCCE6EC9A
+ItemGUID=668A32B3-10EC-4E71-9646-E8AF5058AC5F
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -53,7 +53,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\ACU_Libs\ul_MT48LC16M16A2B4-6A-G-TR\AltiumDesigner\MT48LC16M16A2B4-6A-GTR.PcbLib
+DocumentPath=ImegurasLib\ImegurasLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,10 +67,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NHTQWVLS
+DocumentUniqueId=CIPMKQPR
 
 [Document2]
-DocumentPath=..\ACU_Libs\ul_YC124-FR-0733RL\AltiumDesigner\YC124-FR-0733RL.PcbLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_T77S1D3-05\AltiumDesigner\T77S1D3-05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,10 +84,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PCGHKSQK
 
 [Document3]
-DocumentPath=..\ACU_Libs\ul_MT48LC16M16A2B4-6A-G-TR\AltiumDesigner\MT48LC16M16A2B4-6A-GTR.SchLib
+DocumentPath=ImegurasLib\ImegurasLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,10 +101,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UPRYZYJP
+DocumentUniqueId=TNZRKANK
 
 [Document4]
-DocumentPath=..\ACU_Libs\ul_YC124-FR-0733RL\AltiumDesigner\YC124-FR-0733RL.SchLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_T77S1D3-05\AltiumDesigner\T77S1D3-05.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,10 +118,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NJIVXZMW
+DocumentUniqueId=VLVBJHCB
 
 [Document5]
-DocumentPath=..\ACU_Libs\LIB_1N4148W-G3-08\1N4148W-G3-08\Altium\SOD3716X135N.PcbLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_RJF0408JPD-01-J3\AltiumDesigner\RJF0408JPD-01J3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,10 +135,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BGSFOTIA
+DocumentUniqueId=XDPOMDQI
 
 [Document6]
-DocumentPath=..\ACU_Libs\LIB_0805AF-222XJRC\0805AF-222XJRC\Altium\INDC2317X152N.PcbLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\ul_RJF0408JPD-01-J3\AltiumDesigner\RJF0408JPD-01J3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,10 +152,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NLJQGTSI
 
 [Document7]
-DocumentPath=..\ACU_Libs\ul_MIC69301-1-2WR-TR\AltiumDesigner\MIC69301-1P2WR-TR.PcbLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\Desago\DesagoPCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,10 +169,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PJJBOUDJ
 
 [Document8]
-DocumentPath=..\ACU_Libs\LIB_1N4148W-G3-08\1N4148W-G3-08\Altium\1N4148W-G3-08.SchLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\Desago\DesagoSch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,10 +186,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AVNEQUTG
+DocumentUniqueId=QVTNMPTC
 
 [Document9]
-DocumentPath=..\ACU_Libs\LIB_0805AF-222XJRC\0805AF-222XJRC\Altium\0805AF-222XJRC.SchLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\USB-C\1-2295018-2\TE_1-2295018-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,10 +203,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BMOKPRNR
+DocumentUniqueId=RISVEPTO
 
 [Document10]
-DocumentPath=..\ACU_Libs\ul_MIC69301-1-2WR-TR\AltiumDesigner\MIC69301-1P2WR-TR.SchLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S7221-45R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,112 +220,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WJWUVGVD
+DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\ACU_Libs\ul_TSR-1-2450\AltiumDesigner\TSR1-2450.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=..\ACU_Libs\LIB_TSR_1-2450\TSR_1-2450\Altium\TSR1-2450.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PQCQOGGJ
-
-[Document13]
-DocumentPath=..\ACU_Libs\ul_ST50S017VCAR1800\AltiumDesigner\ST50S017VCAR1800.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GSBHCHZU
-
-[Document14]
-DocumentPath=..\ACU_Libs\ul_ST50S017VCAR1800\AltiumDesigner\ST50S017VCAR1800.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document15]
-DocumentPath=..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S7221-45R.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AJERZRJC
-
-[Document16]
-DocumentPath=..\ACU_Libs\LIB_S7221-45R\S7221-45R\Altium\S722145R.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=..\Altium_Component_Library\Pedro_pcb_lib.PcbLib
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\Altium_Component_Library\Pedro_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -341,8 +239,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJXNFPHA
 
-[Document18]
-DocumentPath=..\Altium_Component_Library\Pedro_sch_lib.SchLib
+[Document12]
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\Altium_Component_Library\Pedro_sch_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -358,8 +256,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNTNTKTX
 
-[Document19]
-DocumentPath=..\ACU_Libs\LIB_1894K-32LF\1894K-32LF\Altium\QFN50P500X500X100-33N-D.PcbLib
+[Document13]
+DocumentPath=..\..\..\..\micron\Desktop\ACU_Libs\USB-C\1-2295018-2\1-2295018-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -373,94 +271,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BJYSSNGD
+DocumentUniqueId=RLURPEND
 
-[Document20]
-DocumentPath=..\ACU_Libs\LIB_1894K-32LF\1894K-32LF\Altium\1894K-32LF.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BVRNIDBW
-
-[Document21]
-DocumentPath=..\ACU_Libs\LIB_R7FA8M1AFECFC#BA0\R7FA8M1AFECFC#BA0\Altium\QFP50P2600X2600X160-176N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
-DocumentPath=..\ACU_Libs\LIB_R7FA8M1AFECFC#BA0\R7FA8M1AFECFC#BA0\Altium\R7FA8M1AFECFC#BA0.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BNICIJLH
-
-[Document23]
-DocumentPath=..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\QFP50P900X900X170-48N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AKTVEBSC
-
-[Document24]
-DocumentPath=..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\R7FA4M2AD3CFL#BA0.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AQFFVDXB
-
-[Document25]
+[Document14]
 DocumentPath=JTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -477,7 +290,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGBHSTQZ
 
-[Document26]
+[Document15]
+DocumentPath=BGA_ACUity.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UEGPWJYW
+
+[Document16]
 DocumentPath=JTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document17]
 DocumentPath=TopLevelConnections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LESNUNLU
 
-[Document28]
+[Document18]
 DocumentPath=TopLevelConnections.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -528,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document19]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -545,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJAYVAVX
 
-[Document30]
+[Document20]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -562,41 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
-DocumentPath=..\..\..\ACU_Libs\LIB_R7FA4M2AD3CFL#BA0\R7FA4M2AD3CFL#BA0\Altium\R7FA4M2AD3CFL#BA0.epw
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document32]
-DocumentPath=Board_nonBGA.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VHVKVVRS
-
-[Document33]
+[Document21]
 DocumentPath=Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -613,7 +409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMVVTHOU
 
-[Document34]
+[Document22]
 DocumentPath=Board.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -630,7 +426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document23]
 DocumentPath=CanFD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -647,7 +443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGYRIFGW
 
-[Document36]
+[Document24]
 DocumentPath=CanFD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -664,7 +460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document25]
 DocumentPath=HighSpeedInterfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -675,13 +471,13 @@ AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFCDEEEG
 
-[Document38]
+[Document26]
 DocumentPath=HighSpeedInterfaces.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -698,7 +494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document27]
 DocumentPath=ra8m1_unshielded.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -715,41 +511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
-DocumentPath=ImegurasLib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TODZSLCD
-
-[Document41]
-DocumentPath=ImegurasLib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TKBUUYXN
-
-[Document42]
+[Document28]
 DocumentPath=ra8m1_unshielded.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -766,41 +528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
-DocumentPath=Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BATJKBWV
-
-[Document44]
-DocumentPath=CAMtastic8.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document45]
+[Document29]
 DocumentPath=CAMtastic9.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -817,7 +545,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document30]
+DocumentPath=Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BATJKBWV
+
+[Document31]
+DocumentPath=CAMtastic8.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
 DocumentPath=ra8m1_unshielded.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -834,189 +596,162 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA-RoundHoles.TXT
+[Document33]
+DocumentPath=DrivePower.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RKCTSWNF
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA-SlotHoles.TXT
+[Document34]
+DocumentPath=DrivePower.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.1
+[Document35]
+DocumentPath=Watchdog.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CPWPCZBF
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.2
+[Document36]
+DocumentPath=Watchdog.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.3
+[Document37]
+DocumentPath=ADC-Filter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HVWCOBLA
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.DRR
+[Document38]
+DocumentPath=ASICS_ACU.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XQFQAGKK
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.EXTREP
+[Document39]
+DocumentPath=ImegurasLib\ImegurasLib.PvLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.G1
+[Document40]
+DocumentPath=Mosfets.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UOTUCHCE
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.G2
+[Document41]
+DocumentPath=TransceiversCanFD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KGEXCDFM
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM17
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM18
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM19
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM24
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GM31
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GML
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.REP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for ra8m1_unshielded\Board_nonBGA.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for ra8m1_unshielded\bom_v1.4.2.csv
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for ra8m1_unshielded\Design Rule Check - Board_nonBGA.html
-DItemRevisionGUID=
+[DiffPairSuffix1]
+Positive=_H
+Negative=_L
 
 [Configuration1]
 Name=Sources
@@ -1235,54 +970,42 @@ OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=PCBDrawing
-OutputName8=Draftsman
+OutputType8=PCBLIB Print
+OutputName8=PCBLIB Prints
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PCBDrawing
-OutputName9=Draftsman
+OutputType9=PDF3D
+OutputName9=PDF3D
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PCBLIB Print
-OutputName10=PCBLIB Prints
+OutputType10=PDF3D MBA
+OutputName10=PDF3D MBA
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D
-OutputName11=PDF3D
+OutputType11=Report Print
+OutputName11=Report Prints
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=PDF3D MBA
-OutputName12=PDF3D MBA
+OutputType12=Schematic Print
+OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Report Print
-OutputName13=Report Prints
+OutputType13=SimView Print
+OutputName13=SimView Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=Schematic Print
-OutputName14=Schematic Prints
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=SimView Print
-OutputName15=SimView Prints
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1305,6 +1028,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1468,102 +1196,6 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Text Print
-OutputName2=Text Print
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Text Print
-OutputName3=Text Print
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Text Print
-OutputName4=Text Print
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Text Print
-OutputName5=Text Print
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=Text Print
-OutputName6=Text Print
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=Text Print
-OutputName7=Text Print
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=Text Print
-OutputName8=Text Print
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Text Print
-OutputName9=Text Print
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Text Print
-OutputName10=Text Print
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Text Print
-OutputName11=Text Print
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Text Print
-OutputName12=Text Print
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Text Print
-OutputName13=Text Print
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=Text Print
-OutputName14=Text Print
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=Text Print
-OutputName15=Text Print
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType16=Text Print
-OutputName16=Text Print
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType17=Text Print
-OutputName17=Text Print
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -1825,6 +1457,18 @@ Type135=1
 Type136=1
 Type137=1
 Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
 
 [Difference Levels]
 Type1=1
@@ -1901,6 +1545,13 @@ Type71=1
 Type72=1
 Type73=1
 Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
 
 [Electrical Rules Check]
 Type1=0
@@ -2056,9 +1707,10 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
 
 [ERC Connection Matrix]
-L1=NNNNNNNNNNNWNNNWW
+L1=NNNNNNNNNNNWNNNWE
 L2=NNWNNNNWWWNWNWNWN
 L3=NWEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
@@ -2074,7 +1726,7 @@ L13=NNNNNNNNNNNWNNNWW
 L14=NWEENEEEENEWNEEWW
 L15=NNENNNNEEENWNENWW
 L16=WWWWNWWNWWWNWWWNW
-L17=WNNNNNNNWNNNWWWWN
+L17=ENNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
@@ -2089,8 +1741,8 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
-CompClassManualRoomEnabled=0
+CompClassManualEnabled=1
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
@@ -2102,15 +1754,15 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=QFS-052-04.25-XX-D-A-GP1.IntLib
-ComponentDesignItemID0=QFS-052-04.25-XX-D-A-GP
-ComponentSymbolReference0=QFS-052-04.25-XX-D-A-GP
+ComponentLibIdentifierKind0=Vault Name
+ComponentLibraryIdentifier0=LART
+ComponentDesignItemID0=CMP-010-000001-4
+ComponentSymbolReference0=MC33926PNBR2
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
-UpdateDesignatorLock=0
-UpdatePartIDLock=0
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
 PreserveParameterLocations=1
 PreserveParameterVisibility=1
 DoGraphics=1
@@ -2121,30 +1773,28 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Availability
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Description
+ParameterName3=Design Item ID
 ParameterUpdate3=1
 ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=MF
+ParameterName5=Mfr_Name
 ParameterUpdate5=1
-ParameterName6=MP
+ParameterName6=RefDes
 ParameterUpdate6=1
-ParameterName7=Package
+ParameterName7=Source
 ParameterUpdate7=1
-ParameterName8=Price
+ParameterName8=Type
 ParameterUpdate8=1
-ParameterName9=Value
-ParameterUpdate9=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SAMTEC_QFS-052-04.25-XX-D-A-GP
+ModelName0=PQFN80P525X800X100_HS-29N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -2152,6 +1802,107 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=1-CLK|NetColor=clRed
+Net2=NetName=1-CRS_DV|NetColor=clRed
+Net3=NetName=1-EXOUT|NetColor=clRed
+Net4=NetName=1-LINKSTA|NetColor=clRed
+Net5=NetName=1-MDC|NetColor=clRed
+Net6=NetName=1-MDIO|NetColor=clRed
+Net7=NetName=1-RX_ER|NetColor=clRed
+Net8=NetName=1-RXD_N|NetColor=clRed
+Net9=NetName=1-RXD_P|NetColor=clRed
+Net10=NetName=1-TXD_EN|NetColor=clRed
+Net11=NetName=1-TXD_N|NetColor=clRed
+Net12=NetName=1-TXD_P|NetColor=clRed
+Net13=NetName=1-WAKEONLAN|NetColor=clRed
+Net14=NetName=CMOS_DRIVE0_0|NetColor=$00A8D7B6
+Net15=NetName=CMOS_DRIVE0_1|NetColor=$00A8D7B6
+Net16=NetName=CMOS_DRIVE0_INV|NetColor=$00A8D7B6
+Net17=NetName=CMOS_DRIVE0_SF|NetColor=$00A8D7B6
+Net18=NetName=CMOS_DRIVE0_SLEW|NetColor=$00A8D7B6
+Net19=NetName=CMOS_DRIVE1_0|NetColor=$00A8D7B6
+Net20=NetName=CMOS_DRIVE1_1|NetColor=$00A8D7B6
+Net21=NetName=CMOS_DRIVE1_INV|NetColor=$00A8D7B6
+Net22=NetName=CMOS_DRIVE1_SF|NetColor=$00A8D7B6
+Net23=NetName=CMOS_DRIVE1_SLEW|NetColor=$00A8D7B6
+Net24=NetName=DRIVE_0.CMOS_0|NetColor=$00A8D7B6
+Net25=NetName=DRIVE_0.CMOS_0_1|NetColor=$00A8D7B6
+Net26=NetName=DRIVE_0.CMOS_1|NetColor=$00A8D7B6
+Net27=NetName=DRIVE_0.CMOS_1_1|NetColor=$00A8D7B6
+Net28=NetName=DRIVE_0.INV|NetColor=$00A8D7B6
+Net29=NetName=DRIVE_0.INV_1|NetColor=$00A8D7B6
+Net30=NetName=DRIVE_0.SLEW|NetColor=$00A8D7B6
+Net31=NetName=DRIVE_0.SLEW_1|NetColor=$00A8D7B6
+Net32=NetName=DRIVE_0.STATUS_OPEN_DRAIN|NetColor=$00A8D7B6
+Net33=NetName=DRIVE_0.STATUS_OPEN_DRAIN_1|NetColor=$00A8D7B6
+Net34=NetName=DRIVE_1.CMOS_0|NetColor=$00A8D7B6
+Net35=NetName=DRIVE_1.CMOS_0_1|NetColor=$00A8D7B6
+Net36=NetName=DRIVE_1.CMOS_1|NetColor=$00A8D7B6
+Net37=NetName=DRIVE_1.CMOS_1_1|NetColor=$00A8D7B6
+Net38=NetName=DRIVE_1.INV|NetColor=$00A8D7B6
+Net39=NetName=DRIVE_1.INV_1|NetColor=$00A8D7B6
+Net40=NetName=DRIVE_1.SLEW|NetColor=$00A8D7B6
+Net41=NetName=DRIVE_1.SLEW_1|NetColor=$00A8D7B6
+Net42=NetName=DRIVE_1.STATUS_OPEN_DRAIN|NetColor=$00A8D7B6
+Net43=NetName=DRIVE_1.STATUS_OPEN_DRAIN_1|NetColor=$00A8D7B6
+Net44=NetName=ETH_1.CLK|NetColor=clRed
+Net45=NetName=ETH_1.CLK_1|NetColor=clRed
+Net46=NetName=ETH_1.CRS_DV|NetColor=clRed
+Net47=NetName=ETH_1.CRS_DV_1|NetColor=clRed
+Net48=NetName=ETH_1.EXOUT|NetColor=clRed
+Net49=NetName=ETH_1.EXOUT_1|NetColor=clRed
+Net50=NetName=ETH_1.LINKSTA|NetColor=clRed
+Net51=NetName=ETH_1.LINKSTA_1|NetColor=clRed
+Net52=NetName=ETH_1.MDC|NetColor=clRed
+Net53=NetName=ETH_1.MDC_1|NetColor=clRed
+Net54=NetName=ETH_1.MDIO|NetColor=clRed
+Net55=NetName=ETH_1.MDIO_1|NetColor=clRed
+Net56=NetName=ETH_1.RX_ER|NetColor=clRed
+Net57=NetName=ETH_1.RX_ER_1|NetColor=clRed
+Net58=NetName=ETH_1.RXD_1_N|NetColor=clRed
+Net59=NetName=ETH_1.RXD_1_P|NetColor=clRed
+Net60=NetName=ETH_1.RXD_N|NetColor=clRed
+Net61=NetName=ETH_1.RXD_P|NetColor=clRed
+Net62=NetName=ETH_1.TXD_1_N|NetColor=clRed
+Net63=NetName=ETH_1.TXD_1_P|NetColor=clRed
+Net64=NetName=ETH_1.TXD_EN|NetColor=clRed
+Net65=NetName=ETH_1.TXD_EN_1|NetColor=clRed
+Net66=NetName=ETH_1.TXD_N|NetColor=clRed
+Net67=NetName=ETH_1.TXD_P|NetColor=clRed
+Net68=NetName=ETH_1.WOL|NetColor=clRed
+Net69=NetName=ETH_1.WOL_1|NetColor=clRed
+Net70=NetName=INV0|NetColor=$00A8D7B6
+Net71=NetName=INV1|NetColor=$00A8D7B6
+Net72=NetName=N00000|NetColor=clRed
+Net73=NetName=NetC?_2|NetColor=clYellow
+Net74=NetName=NetK1_3|NetColor=$00FF0099
+Net75=NetName=NetU16_1|NetColor=$00A8D7B6
+Net76=NetName=NetU16_2|NetColor=$00A8D7B6
+Net77=NetName=NetU16_3|NetColor=$00A8D7B6
+Net78=NetName=NetU2_1|NetColor=$00A8D7B6
+Net79=NetName=NetU2_2|NetColor=$00A8D7B6
+Net80=NetName=NetU2_3|NetColor=$00A8D7B6
+Net81=NetName=SF_0|NetColor=$00A8D7B6
+Net82=NetName=SF_1|NetColor=$00A8D7B6
+Net83=NetName=ShutdownIN|NetColor=$00FF0099
+Net84=NetName=ShutdownIN_3|NetColor=$00FF0099
+Net85=NetName=ShutdownOUT|NetColor=$00FF0099
+Net86=NetName=ShutdownOUT_3|NetColor=$00FF0099
+Net87=NetName=ShutdownWatch.ShutIn|NetColor=$00FF0099
+Net88=NetName=ShutdownWatch.ShutIn_1|NetColor=$00FF0099
+Net89=NetName=ShutdownWatch.ShutOut|NetColor=$00FF0099
+Net90=NetName=ShutdownWatch.ShutOut_1|NetColor=$00FF0099
+Net91=NetName=ShutIn|NetColor=$00FF0099
+Net92=NetName=TP_A_6_N|NetColor=clYellow
+Net93=NetName=TP_A_6_P|NetColor=clYellow
+Net94=NetName=TP_A_N|NetColor=clYellow
+Net95=NetName=TP_A_P|NetColor=clYellow
+Net96=NetName=TP_B_6_N|NetColor=clYellow
+Net97=NetName=TP_B_6_P|NetColor=clYellow
+Net98=NetName=TP_B_N|NetColor=clYellow
+Net99=NetName=TP_B_P|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
